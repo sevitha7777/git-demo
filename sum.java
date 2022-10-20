@@ -13,7 +13,7 @@ public static void main(String[] args)
 			n = n / 10;
 		}
 			
-		System.out.println("Sum:"+sum);
+		System.out.println(sum);
 		}
 
 	}
